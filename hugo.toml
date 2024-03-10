@@ -1,0 +1,4 @@
+baseURL = 'https://hudsonnuckols.com/'
+languageCode = 'en-us'
+title = 'Happy Birthday Hudson!'
+theme = 'ananke'
